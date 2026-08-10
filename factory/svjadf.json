@@ -1,0 +1,15 @@
+{
+	"name": "svjadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12e06ea8-0d21-403f-bb04-706640687db9",
+		"tenantId": "467c5aab-1b46-437f-b7f1-2026f074102a"
+	}
+}
